@@ -133,4 +133,6 @@ Tasques
 
 -   Proveu que funcioni correctament.
 
--   Feu més casos de test en el fitxer corresponent a pract0/src/test i   executeu amb .
+-   Feu més casos de test en el fitxer corresponent a pract0/src/test i   executeu amb 
+
+        mvn test
