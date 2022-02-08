@@ -1,6 +1,6 @@
 ---
 author:
-- Irene Pérez, Carlos Borrego, Eloi Puertas
+- David Martinez Carpena, Blai Ras, Eloi Puertas
 date: Febrer 2021
 title: Pràctica 0 - ComUtils Client Servidor (Software distribüit)
 ---
