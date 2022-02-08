@@ -1,7 +1,7 @@
 ---
 author:
 - David Martinez Carpena, Blai Ras, Eloi Puertas
-date: Febrer 2021
+date: Febrer 2022
 title: Pràctica 0 - ComUtils Client Servidor (Software distribüit)
 ---
 
